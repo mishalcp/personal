@@ -1,0 +1,25 @@
+.header{
+    background-color:	#e3f2fd ;
+}
+.section{
+    background-color: #e3f2fd;
+}
+
+    
+.icon{
+    color: #76a4c5;
+}
+.contact{
+    color:  #76a4c5;
+
+}
+.footer{
+    background-color:  #76a4c5;
+}
+.icons{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #76a4c5;
+}
+.border{
+    border-radius: 30%;
+}
